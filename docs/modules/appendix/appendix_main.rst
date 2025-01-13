@@ -3,7 +3,11 @@
 Appendix
 ==============
 
-.. include:: Kalmanfilter_basics.rst
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
-.. include:: Kalmanfilter_basics_2.rst
+   steering_motion_model
+   Kalmanfilter_basics
+   Kalmanfilter_basics_2
 
